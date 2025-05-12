@@ -2,6 +2,7 @@
 
 Proyek ini adalah hasil redesain website Creative Media menggunakan framework Laravel dengan fokus pada modernisasi tampilan, peningkatan pengalaman pengguna, dan penambahan panel admin untuk pengelolaan konten yang dinamis.
 
+
 ## Tentang Proyek
 
 Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layanan yang ditawarkan, portofolio karya siswa, testimoni klien, artikel/berita, serta informasi kontak. Dilengkapi dengan sistem admin untuk memudahkan pembaruan konten secara mandiri.
@@ -34,6 +35,7 @@ Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layana
 * Manajemen Profil Admin (ubah nama, email, password).
 * Sidebar dan Navbar yang intuitif untuk navigasi di area admin.
 * Modal konfirmasi untuk aksi hapus data.
+
 
 ## Teknologi yang Digunakan
 
