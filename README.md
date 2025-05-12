@@ -2,14 +2,13 @@
 
 Proyek ini adalah hasil redesain website Creative Media menggunakan framework Laravel dengan fokus pada modernisasi tampilan, peningkatan pengalaman pengguna, dan penambahan panel admin untuk pengelolaan konten yang dinamis.
 
-
 ## Tentang Proyek
 
 Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layanan yang ditawarkan, portofolio karya siswa, testimoni klien, artikel/berita, serta informasi kontak. Dilengkapi dengan sistem admin untuk memudahkan pembaruan konten secara mandiri.
 
 ## Fitur Utama
 
-### Bagian Publik (Frontend)
+### Publik (Frontend)
 * **Beranda:** Halaman utama dengan slider gambar, ringkasan layanan, highlight karya siswa, testimoni, dan artikel terbaru.
 * **Bidang Studi:** Daftar bidang studi yang ditawarkan oleh Creative Media.
 * **Layanan Jasa:** Daftar layanan jasa yang disediakan (Branding & Design, Web Development, Mobile Apps Development).
@@ -21,7 +20,7 @@ Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layana
 * **Hubungi Kami:** Halaman dengan informasi kontak dan form untuk mengirim pesan.
 * Desain Responsif.
 
-### Bagian Admin (Backend)
+### Admin (Backend)
 * Login Admin.
 * Dashboard admin dengan ringkasan data.
 * **Manajemen Konten (CRUD - Create, Read, Update, Delete) untuk:**
@@ -35,7 +34,6 @@ Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layana
 * Manajemen Profil Admin (ubah nama, email, password).
 * Sidebar dan Navbar yang intuitif untuk navigasi di area admin.
 * Modal konfirmasi untuk aksi hapus data.
-
 
 ## Teknologi yang Digunakan
 
