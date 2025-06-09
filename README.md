@@ -39,8 +39,8 @@ Website ini bertujuan untuk menampilkan profil perusahaan Creative Media, layana
 
 * **Framework Backend:** Laravel 12 (PHP)
 * **Framework Frontend:** Tailwind CSS
-* **JavaScript:** Alpine.js (untuk interaktivitas UI seperti modal, dropdown, toggle sidebar)
-* **Database:** MySQL (via Laragon)
+* **JavaScript:** Alpine.js
+* **Database:** MySQL
 * **Server Lokal:** Laragon
 * **Manajemen Dependensi:** Composer (PHP), NPM (JavaScript)
 * **Build Tool:** Vite
